@@ -1,0 +1,23 @@
+{
+  "name": "binance-leaderboard-scraper",
+  "version": "1.0.0",
+  "description": "Binance leaderboard checker template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Archento/Binance-Leaderboard-Scraper.git"
+  },
+  "keywords": [],
+  "author": "Archento",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Archento/Binance-Leaderboard-Scraper/issues"
+  },
+  "homepage": "https://github.com/Archento/Binance-Leaderboard-Scraper#readme",
+  "dependencies": {
+    "got": "11.8.5"
+  }
+}
